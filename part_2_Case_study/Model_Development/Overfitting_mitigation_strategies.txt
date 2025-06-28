@@ -1,0 +1,9 @@
+To make sure the model performs well not just on training data but also in the real world, we’ll take a few steps:
+
+Use cross-validation to make sure our results hold up across different chunks of data.
+
+Limit complexity – For example, in Random Forest, we can limit the depth of each tree or require more data per split.
+
+Keep only useful features – Drop anything that doesn’t add value to the prediction.
+
+Regularly update the model with new patient data so it stays relevant and accurate over time.
