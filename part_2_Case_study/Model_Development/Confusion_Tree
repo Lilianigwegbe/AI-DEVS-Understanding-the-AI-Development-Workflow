@@ -1,0 +1,7 @@
+
+Example of Confusion Matrix (for 200 patients):
+
+|                         | Predicted: Readmit  | Predicted: No Readmit |
+| ----------------------- | ------------------- | --------------------- |
+| **Actually Readmitted** | 48 (True Positive)  | 12 (False Negative)   |
+| **Not Readmitted**      | 18 (False Positive) | 122 (True Negative)   |
