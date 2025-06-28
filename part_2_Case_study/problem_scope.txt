@@ -1,0 +1,31 @@
+1. THE PROBLEM DEFINITION:
+
+The hospital aims to develop an AI-based system that can predict the likelihood of a patient being readmitted within 30 days after discharge.
+High readmission rates can indicate poor care quality, increase healthcare costs, and negatively impact patient outcomes.
+The hospital wants to proactively identify high-risk patients to enable timely interventions that can reduce unnecessary readmissions.
+
+
+2. OBJECTIVES:
+
+- Build a predictive model to classify patients as high or low readmission risk.
+
+- Improve patient care by enabling targeted follow-ups and preventive measures for high-risk patients.
+
+- Reduce hospital readmission rates to comply with healthcare regulations and improve hospital performance.
+
+- Assist healthcare providers in making data-driven decisions for post-discharge care planning.
+
+
+3. STAKEHOLDERS:
+
+(i) Patients: Benefit from improved care, targeted follow-up, and reduced complications.
+
+(ii) Doctors and Nurses: Use predictions to adjust discharge planning and provide appropriate aftercare instructions.
+
+(iii) Hospital Administrators: Benefit from reduced readmission penalties and improved hospital ratings.
+
+(iv) Data Scientists / AI Engineers: Responsible for building, validating, and maintaining the predictive model.
+
+(v) Health Insurance Providers: Interested in cost reduction through better patient management and fewer readmissions.
+
+(vi) Regulatory Bodies: Ensure the hospital meets required healthcare quality standards.

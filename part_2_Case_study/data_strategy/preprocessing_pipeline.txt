@@ -1,0 +1,56 @@
+PREPROCESSING PIPELINE:
+
+
+Step 1. Data Collection:
+ -Gather data from Electronic Health Records (EHRs), patient demographics, discharge summaries, and social health data.
+
+
+Step 2. Data Cleaning:
+
+ -Remove or impute missing values.
+
+ -Correct errors like incorrect dates or out-of-range vital signs.
+
+ -Drop duplicate records.
+
+
+Step 3. Data Transformation
+ -Encode categorical variables:
+
+   *Gender → Binary encoding (Male: 0, Female: 1)
+
+    *Diagnosis codes → One-hot encoding or embeddings.
+
+ -Scale numerical features:
+
+   *Normalize lab results and vital signs to ensure balanced feature contributions.
+
+
+Step 4. Feature Engineering:
+
+ -Create new features such as:
+
+   *Number of previous admissions in the last 12 months.
+
+   *Length of hospital stay.
+
+   *Time since last discharge.
+
+    *Medication complexity score.
+
+ -Aggregate features:
+    *like average blood pressure during the hospital stay.
+
+    *Average vital signs over the last hospital stay.
+
+    *Total number of chronic diseases.
+
+
+Step 5. Data Splitting:
+
+ -Divide data into training, validation, and testing sets (e.g., 70% training, 15% validation, 15% testing).
+
+
+Step 6. Handling Class Imbalance:
+
+ -Apply techniques like SMOTE to balance the dataset if readmissions are rare.

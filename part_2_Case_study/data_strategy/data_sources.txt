@@ -1,0 +1,37 @@
+1. Electronic Health Records (EHRs):
+
+   -Diagnosis history
+
+   -Previous admissions and readmissions
+
+   -Lab results
+
+   -Medication history
+
+   -Vital signs
+
+   -Treatment procedures
+
+
+
+2. Patient Demographics:
+
+   -Age, gender, ethnicity
+
+   -Socioeconomic status
+
+
+
+3. Discharge Details:
+
+   -Discharge instructions
+
+   -Follow-up appointments
+
+   -Social Determinants of Health:
+
+   -Support systems
+
+   -Distance from the hospital
+
+   -Lifestyle factors 

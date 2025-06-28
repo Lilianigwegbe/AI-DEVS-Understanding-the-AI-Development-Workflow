@@ -1,0 +1,12 @@
+ETHICAL CONCERNS:
+
+(a) Patient Privacy and Data Security:
+ -Health records contain highly sensitive personal information.
+
+ -Concern: Ensuring that patient data is anonymized, encrypted, and securely stored to comply with data protection laws like HIPAA.
+
+
+(b) Bias and Fairness:
+ -Models can unintentionally inherit biases present in the training data (e.g., unequal care for certain demographics).
+
+ -Concern: The model must be tested and monitored for bias against age, gender, ethnicity, or socioeconomic groups to ensure fair predictions.
