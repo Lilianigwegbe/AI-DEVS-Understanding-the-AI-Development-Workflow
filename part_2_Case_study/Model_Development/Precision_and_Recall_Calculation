@@ -1,0 +1,7 @@
+Precision & Recall:
+
+Precision: 48 / (48 + 18) = 72.7%
+
+Recall: 48 / (48 + 12) = 80%
+
+This tells us the model is pretty good at catching the patients most likely to return, while keeping false alarms in check.
