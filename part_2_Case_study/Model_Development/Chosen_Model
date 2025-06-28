@@ -1,0 +1,4 @@
+Chosen Model: Random Forest
+
+We’re going with a Random Forest classifier. It’s great for this kind of structured medical data, can handle both numbers and categories, and gives us a way to see which features matter most. 
+It’s also less likely to overfit compared to a single decision tree.
