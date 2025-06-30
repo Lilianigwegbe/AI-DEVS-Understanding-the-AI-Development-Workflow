@@ -1,0 +1,49 @@
+# Part 4: Reflection & AI Development Workflow Diagram  
+**Contributor: Bombi Tsatsawane Charity**
+
+---
+
+## Reflection  
+
+### What was the most challenging part of the workflow?  
+
+The most challenging part of the AI development workflow was the **data collection and preprocessing phase**. This stage involved working with incomplete, inconsistent, and sensitive healthcare data, which made it difficult to maintain both data quality and patient privacy. Additionally, identifying and addressing potential biases in the data required domain expertise and thorough analysis, which can be time-consuming without specialized tools and proper collaboration.
+
+### How would you improve your approach with more time/resources?  
+
+If more time and resources were available, I would focus on enhancing the **data exploration and validation process** by integrating advanced data profiling tools to automatically detect anomalies and biases. I would also collaborate more closely with healthcare professionals to refine the feature selection process and improve the interpretability of the AI models. Furthermore, setting up a **continuous data monitoring and validation system** post-deployment would help maintain data quality and quickly detect concept drift or unexpected model behavior.
+
+---
+
+## AI Development Workflow Diagram  
+
+Below is the AI Development Workflow we followed during this assignment:
+
+```plaintext
++---------------------+
+|  Problem Definition  |
++---------------------+
+            ↓
++---------------------+
+|    Data Collection   |
++---------------------+
+            ↓
++---------------------+
+|  Data Preprocessing  |
++---------------------+
+            ↓
++---------------------+
+|  Model Development   |
++---------------------+
+            ↓
++---------------------+
+|   Model Evaluation   |
++---------------------+
+            ↓
++---------------------+
+|      Deployment      |
++---------------------+
+            ↓
++---------------------+
+| Monitoring & Maintenance |
++---------------------+
