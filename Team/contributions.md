@@ -1,7 +1,7 @@
 ## Contributor 1(Lilian Igwegbe) 
 ## Username-lilianigwegbe
 
-She handled Part 1 of the assignment, assigned roles, documented each member's  contribution and also wrote the Readme.md
+I handled Part 1 of the assignment, assigned roles, documented each member's  contribution and also wrote the Readme.md
 
 ## Contributor 2(Evanson Kimani)
 ## Username- Evans200png 
